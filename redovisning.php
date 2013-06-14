@@ -22,6 +22,29 @@ $html = <<<input
 	<h1>Redovisning av kursmomenten</h1>
 	
 	<article>
+		<h2>Kmom05: Innehåll</h2>
+		<p>
+			<b>Hur gick det när du byggde ut ramverket med stöd för innehåll? </b><br />
+			Det har gått utan några problem alls. 
+			Allt är på plats och fungerar väl antagligen som det var tänkt.
+		</p>
+		<p>
+			<b>Läste du materialet om att skriva för webben? </b><br />
+			Ja, det var en hel del matnyttig information i den artikeln som kan vara värt att komma ihåg.
+			Är ju en hel del sådana här småsaker i webbutveckling som man oftast inte ens tänker på när man skapar sina webbsidor och den här artikeln gav ju en hel del information om hur vi fungerar när vi läser på internet, samt en hel del tips om hur man ska presentera sin information på nätet för att behålla besökaren och det kan ju givetvis vara bra att ha i minnet när man utvecklar sina webbsidor.
+		</p>
+		<p>
+			<b>Läste du materialet om XSS?</b><br />
+			Läste en hel del om XSS och har fått mer kunskap om vad det är och hur jag kan skydda mig mot det. Har hört talas om detta tidigare(samt SQL-injektioner) men har aldrig direkt fördjupat mig i vad det faktiskt är eller hur det fungerar. Detta mest på grund av att man använder JS eller liknande vilket jag inte har några kunskaper inom vilket gjort det svårt att testa den här typen av attacker själv. 
+		</p>	
+		<p>
+			<b>Gjorde du extrauppgiften med CTextFilter och implementerade extra filter? </b><br />
+			Ja, skapade funktionen Filter() som tar emot en text-sträng samt en array med strängar där man ska ange vilket eller vilka filter man ska köra texten genom. Om bara ett filter ska tillämpas kan man välja att anropa dessa funktioner separat om man vill.? 
+		</p>
+		
+	</article>
+	
+	<article>
 		<h2>Kmom04: Modeller för login, användare och grupper </h2>
 		<p>
 			<b>Hur kändes det att jobba med CForm-klassen (den du valde)? </b><br />
